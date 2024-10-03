@@ -5,11 +5,12 @@ This tutorial demonstrates how to build an ensemble model for predicting custome
 Prerequisites
 Before starting, ensure you have the following libraries installed:
 
- 1. pandas
- 2. numpy
- 3. scikit-learn
- 4. imbalanced-learn
- 5. matplotlib
+ 1. **pandas**
+ 2. **numpy**
+ 3. **scikit-learn**
+ 4. **imbalanced-learn**
+ 5. **matplotlib**
+
 You can install these libraries using pip:
 
 ```bash
